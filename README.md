@@ -2,7 +2,6 @@
 
 VK Generic OAuth Proxy
 
----
 
 VK использует немного нестандартные практики OAuth:
 
