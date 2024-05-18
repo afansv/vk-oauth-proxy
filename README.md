@@ -1,4 +1,6 @@
 # vk-oauth-proxy
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+](https://hub.docker.com/r/afansv/vk-oauth-proxy)
 
 VK Generic OAuth Proxy
 
